@@ -1,0 +1,7 @@
+[package]
+name = "rmbuf"
+version = "0.1.0"
+edition = "2021"
+authors = ["Rusty-Cage <gao.brian@gmail.com>"]
+
+[dependencies]
